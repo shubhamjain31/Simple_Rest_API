@@ -1,1 +1,3 @@
 # Simple_Rest_API
+
+This is a simple web API in python and jsonify.
